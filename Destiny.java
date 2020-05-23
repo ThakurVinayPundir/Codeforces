@@ -4,6 +4,7 @@ Codeforces Round #429 (Div. 1)
 problem D. Destiny using java implementation
 It is implemented using persistent segment tree.
 
+changing
 */ 
 
 
